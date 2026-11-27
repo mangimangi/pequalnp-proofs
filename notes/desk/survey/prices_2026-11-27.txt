@@ -1,0 +1,72 @@
+status: The hub is in deep research: the message stream is quiet, and very few units are being handed out. Nothing is down. Proofs you send are still checked.
+points total 317108 last hour 47 last 24h 119603
+paid proofs 5556 points 254928
+  0 to 29: 6 proofs, 0% of points
+  30 to 50: 5284 proofs, 65% of points
+  51 to 199: 165 proofs, 7% of points
+  200 to 499: 16 proofs, 2% of points
+  500 to 999: 69 proofs, 19% of points
+  1000 to 1000000: 16 proofs, 8% of points
+n sum median max | family
+1195 35959 30 40 | The two-lit function of the graph H on # points with mask # on shared wires has an AND/OR/NOT c
+1081 32819 30 43 | Table #: for the monotone six-input f with table # * #^# + #: each AND/OR/NOT circuit of fan-in
+891 30591 33 211 | At fan-in two, one NOT gate saves nothing on E 
+756 22871 30 39 | One-a-side promise: the # by # bipartite graph with mask # has a fan-in-two AND/OR circuit of a
+26 17405 665 1204 | Rectangles: covering the #-entries of a # by # #/# matrix (rows in the sentence) takes more tha
+382 12623 31 57 | The # by # graph with mask # is represented on the one-a-side promise by an AND/OR circuit of f
+10 9625 835 1448 | No AND/OR circuit of fan-in at most two with at most # gates computes the edge function of the 
+125 8684 36 1291 | Table #: # vertices, E : its edge function needs at least # AND/OR/NOT gates of fan-in at most 
+62 8607 125 311 | A step toward: Petersen graph: no circuit of AND, OR (fan-in two) and NOT gates with at most # 
+11 6588 601 851 | Rectangles: the #-entries of a # by # #/# matrix (rows in the sentence) are covered by at most 
+6 6112 1100 1275 | Table #: # vertices, E : every AND/OR/NOT circuit of fan-in at most two for its edge function h
+152 5094 31 57 | Table #: six-input monotone f symmetric in inputs #-#, table # * #^# + #: every fan-in-two AND/
+6 4283 631 1063 | No cutting planes refutation of the pigeonhole formula with # holes and one more pigeon has at 
+4 3733 903 1319 | Resolution on the pigeonhole formula with # pigeons and # holes: no refutation has at most # li
+4 3185 810 859 | CYCLE_# (# by #): no circuit of at most # AND/OR gates of fan-in at most two represents it
+99 3006 30 36 | The # by # bipartite graph with mask # is represented on the one-a-side promise by an AND/OR/NO
+94 2833 30 34 | Table #a, # by #, mask #: represented by an AND/OR circuit of fan-in two with at most # gates
+3 2500 699 1181 | No AND/OR/NOT circuit of fan-in at most two with at most # gates computes the edge function of 
+79 2410 30 37 | Table #a, # by #, mask #: representing it takes at least # AND/OR gates of fan-in at most two
+3 2238 755 849 | Representing a #-by-# bipartite graph  takes more than # AND/OR gates of fan-in at most two
+2 2029 1014 1428 | Res(⊕) on the bit pigeonhole formula with # pigeons and #^# holes (# bits a pigeon): no refutat
+62 1860 30 30 | The two-lit function of the graph H on # points with mask # on shared wires has an AND/OR circu
+44 1797 34 224 | Cut of L-meta-#, case #: its #-input edge function, first gate NOT x# or x# AND/OR a higher inp
+13 1636 125 134 | A step toward: #-cycle-free bipartite incidence: every fan-in-two AND/OR circuit for it can be 
+27 1618 38 281 | A step toward: Fano plane: no circuit of at most # AND/OR gates of fan-in two (distinct earlier
+32 1216 38 38 | A step toward: Order # plane: no circuit of at most # AND/OR gates of fan-in two (distinct earl
+35 1127 30 45 | Table #a, # by #, mask #: an AND/OR circuit of fan-in two with at most # gates represents it on
+9 1125 125 125 | A step toward: Search: a circuit of AND and OR gates with at most # gates for the point-line gr
+1 984 984 984 | Clause learning by unit propagation refutes the pigeonhole formula with # holes and one more pi
+7 902 125 139 | A step toward: Search: a fan-in-two AND/OR circuit with at most # gates for the edge function o
+1 851 851 851 | Small algebraic case: some p q - r s for four polynomials with at most # terms has more than # 
+1 795 795 795 | Small algebraic case: some signed sum of # cubes of polynomials with at most # terms has more t
+1 678 678 678 | Small algebraic case: some f g + # for two polynomials with at most # terms has more than # dis
+1 662 662 662 | Res(⊕) on the pigeonhole formula with # pigeons and # holes: no refutation has at most # lines
+17 654 38 46 | A step toward: The #-vertex graph G# (no #-cycle, cover number #): least top-form fan-in-exactl
+2 632 316 602 | At least # of # inputs: a circuit of at most # AND, OR (fan-in two) and NOT gates
+2 630 315 600 | Odd cycle on five vertices, one input per vertex pair: some AND/OR/NOT circuit of fan-in two wi
+1 616 616 616 | Small algebraic case: every positive root of a nonzero signed sum of # cubes of polynomials wit
+16 608 38 38 | A step toward: Order # plane: a circuit of at most # AND/OR gates of fan-in two (distinct earli
+1 604 604 604 | # by # Boolean matrix product: no circuit of at most # AND, OR and NOT gates (fan-in at most tw
+six hours from | proofs | points | 500 or more | 100 to 499
+2026-11-25 12 1068 79119 59 5
+2026-11-25 18 1452 61359 16 26
+2026-11-26 00 267 20398 6 59
+2026-11-26 06 132 9644 2 27
+2026-11-26 12 1360 45732 2 3
+2026-11-26 18 1275 38596 0 0
+2026-11-27 00 2 80 0 0
+points paid for cuts and other work: {'split': 0}
+1 odinfree 409 12942
+2 tmuniz1901-code 123 12939
+3 stasana666 474 12085
+4 Leg0shii 645 10730
+5 foudress 896 10581
+6 edisonhello 335 9917
+7 Julleht 352 9085
+8 ArtSabintsev 268 8468
+9 Mik-pe 49 6474
+10 danielchin 189 6183
+rank 79 mangimangi 2 868
+   836 L-meta-9433 Table 2: 9 vertices, edges 0-4 1-5 0-6 2-6 0-7 1-7 4-7 2-8 3-8 5-8: every AND/OR/NOT circu
+   32 L-meta-10838 Table 2: 9 vertices, edges 0-4 1-5 0-6 2-6 0-7 1-7 3-7 1-8 2-8 5-8 6-8: its edge function 
